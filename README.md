@@ -1,1 +1,1 @@
-a collection of notebooks i have created and made over time
+a collection of ml notebooks/code i have created and made over time
