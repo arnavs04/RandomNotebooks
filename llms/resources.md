@@ -1,6 +1,8 @@
 - *Check UWaterloo & CMU Courses*
 
 - [The Novice's LLM Training Guide](https://rentry.org/llm-training)
+  
+- [Kaggle Discussion: LLM Roadmap](https://www.kaggle.com/discussions/getting-started/420908)
 
 - Good YT Videos
     
